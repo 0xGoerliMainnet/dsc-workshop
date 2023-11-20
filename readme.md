@@ -11,6 +11,8 @@ Workshop
 
 ## dependencies 
 
-    python -m pip install polars matplotlib pyarrow scipy requests
+    python -m pip install polars matplotlib pyarrow scipy requests decimal
 
+
+Start with `workshop.ipynb` to load dependencies
 
